@@ -1,7 +1,10 @@
-function calculaArea(base: number, altura:number): number {
-    return 2 * 5;
+function multiplica(a: number, b: number): number {
+    return a * b;
 }
 
-function saudacao(nome:string): string {
-    return 'ola' + nome;
+function saudacao(nome: string): string {
+    return "Olá " + nome;
 }
+
+
+

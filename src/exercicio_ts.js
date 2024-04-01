@@ -1,7 +1,7 @@
 "use strict";
-function calculaArea(base, altura) {
-    return 2 * 5;
+function multiplica(a, b) {
+    return a * b;
 }
 function saudacao(nome) {
-    return 'ola' + nome;
+    return "Olá " + nome;
 }
